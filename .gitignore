@@ -2,4 +2,3 @@
 .env
 .babelrc
 package-lock.json
-package.json
